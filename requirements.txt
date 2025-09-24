@@ -1,0 +1,6 @@
+google-cloud-translate
+google-cloud-firestore
+google-cloud-storage
+google-generativeai
+Pillow
+python-dotenv

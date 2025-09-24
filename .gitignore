@@ -1,0 +1,15 @@
+# Arquivo de variáveis de ambiente
+# Contém segredos e configurações locais. NUNCA deve ser enviado ao GitHub.
+.env
+
+# Arquivo de credenciais da conta de serviço do Google Cloud
+# Este é um segredo crítico. NUNCA deve ser enviado ao GitHub.
+*.json
+
+# Arquivos de cache e compilados do Python
+__pycache__/
+*.pyc
+
+# Pastas de ambiente virtual
+venv/
+.venv/
